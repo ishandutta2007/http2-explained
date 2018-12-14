@@ -28,3 +28,10 @@ requests](https://github.com/bagder/http2-explained/pulls), but you can also
 just file [issues](https://github.com/bagder/http2-explained/issues) or send email to daniel-http2@haxx.se with your suggestions!
 
  / Daniel Stenberg
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
